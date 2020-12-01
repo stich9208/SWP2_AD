@@ -1,1 +1,0 @@
-URL = 'http://210.99.248.79/service/RecycleDicsInfoService/getRecycleDicsInfoList/'
